@@ -1,9 +1,3 @@
-# Leer una medida en pies
-# Mostrar distancia equivalente en pulgadas, yardas y millas
-# 1 pie = 12 pulgadas
-# 1 pie = 0.333333 yardas
-# 1 pie = 0,000189394 millas
-
 # Fórmula (A/B) = (x/C) ; x = (A * C) / B ;
 # Reformula (A/B) = (C/x) ; x = (A/B) * C ;
 
@@ -44,5 +38,3 @@ if hypothesis_three == hypothesis_four:
     print('Your hypothesis is right')
 else:
     print('Your hypothesis is wrong')
-
-# seguir con un if else
